@@ -2,7 +2,7 @@
   <footer class="footer">
     <div class="container footer-content">
       <div class="footer-col">
-        <h3>Kantor Pusat</h3>
+        <h3>PT. Assasta Sampoerna Indonesia</h3>
         <ul>
           <li><i class="fa-solid fa-location-dot"></i> Jl. Jaya Katwang No. 227, Kec. Ngasem, Kab. Kediri, Jawa Timur, 64182</li>
           <li><i class="fa-brands fa-whatsapp"></i> +62-812-522-737-64</li>
